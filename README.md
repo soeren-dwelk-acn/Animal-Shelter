@@ -16,5 +16,6 @@
 * `git status`
 * `git log`
 * `git remote add origin`
-* `git push -u origin main`
+* `git push <-u> origin main`
+* `git clone <repo_url>`
 
