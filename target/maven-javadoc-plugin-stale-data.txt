@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-private
+-source
+'21'
+-sourcepath
+'C:/dev1/animal-shelter/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/dev1/animal-shelter/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'animal-shelter 1.0-SNAPSHOT API'
+-nohelp
+-use
+-version
+-windowtitle
+'animal-shelter 1.0-SNAPSHOT API'
+com.accenture
+C:\dev1\animal-shelter\src\main\java = 1707916364696
+C:\dev1\animal-shelter\target\site\apidocs\allclasses-index.html = 1707922393417
+C:\dev1\animal-shelter\target\site\apidocs\allpackages-index.html = 1707922393419
+C:\dev1\animal-shelter\target\site\apidocs\copy.svg = 1707922393440
+C:\dev1\animal-shelter\target\site\apidocs\element-list = 1707922393372
+C:\dev1\animal-shelter\target\site\apidocs\index-all.html = 1707922393432
+C:\dev1\animal-shelter\target\site\apidocs\index.html = 1707922393436
+C:\dev1\animal-shelter\target\site\apidocs\link.svg = 1707922393441
+C:\dev1\animal-shelter\target\site\apidocs\member-search-index.js = 1707922393423
+C:\dev1\animal-shelter\target\site\apidocs\module-search-index.js = 1707922393420
+C:\dev1\animal-shelter\target\site\apidocs\overview-tree.html = 1707922393407
+C:\dev1\animal-shelter\target\site\apidocs\package-search-index.js = 1707922393421
+C:\dev1\animal-shelter\target\site\apidocs\script.js = 1707922393439
+C:\dev1\animal-shelter\target\site\apidocs\search-page.js = 1707922393444
+C:\dev1\animal-shelter\target\site\apidocs\search.html = 1707922393434
+C:\dev1\animal-shelter\target\site\apidocs\search.js = 1707922393442
+C:\dev1\animal-shelter\target\site\apidocs\stylesheet.css = 1707922393438
+C:\dev1\animal-shelter\target\site\apidocs\tag-search-index.js = 1707922393424
+C:\dev1\animal-shelter\target\site\apidocs\type-search-index.js = 1707922393422
