@@ -6,8 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="animal-shelter" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="animal-shelter" target="21" />
+    </bytecodeTargetLevel>
   </component>
 </project>
